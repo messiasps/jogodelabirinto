@@ -1,4 +1,4 @@
-# Jogo de Labirinto Ultilizando Flutter - Escribo
+# Jogo de Labirinto Utilizando Flutter - Escribo
 
 ## Descrição
 
