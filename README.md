@@ -13,6 +13,8 @@ O seu jogo deve ser desenvolvido em Flutter utilizando o pacote Bonfire e o mapa
 
 > FLUTTER
 
+> TILED
+
 ## Passos para executar o projeto:
 
 > ACESSAR A PASTA LIB E EXECUTAR main.dart
